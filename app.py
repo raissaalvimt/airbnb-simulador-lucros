@@ -2,7 +2,7 @@ import streamlit as st
 
 st.set_page_config(page_title="Simulador de Lucros Airbnb", layout="centered")
 
-st.title("🏠 Simulador de Lucros para Airbnb")
+st.title("Simulador de Lucros para Airbnb")
 
 st.markdown("""
 Este simulador ajuda a estimar os lucros de uma locação de imóvel via Airbnb com base na taxa de ocupação, valor da diária, comissões e taxas da plataforma.
@@ -28,7 +28,7 @@ comissao_gerente = lucro_liquido * (comissao_gerente_percent / 100)
 lucro_dono = lucro_liquido - comissao_gerente
 
 # Resultados
-st.header("📊 Resultados da Simulação")
+st.header("Resultados da Simulação")
 st.markdown(f"**Dias ocupados:** {dias_ocupados:.1f} dias")
 st.markdown(f"**Receita bruta:** R$ {receita_bruta:,.2f}")
 st.markdown(f"**Taxa do Airbnb:** R$ {taxa_airbnb:,.2f}")
