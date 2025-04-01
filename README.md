@@ -1,6 +1,6 @@
 # 🏠 airbnb-simulador-lucros
 
-Simulador interativo de lucros para aluguel por temporada no **Airbnb**, voltado para **proprietários de imóveis** e **co-anfitriões** que desejam entender melhor o retorno financeiro de uma locação.
+Resolvi formular um app interativo de lucros para aluguel por temporada no **Airbnb**, voltado para **proprietários de imóveis** e **co-anfitriões** que desejam entender melhor o retorno financeiro de uma locação. Ainda penso em aprimorar o app aplicando estratégias de precificação dinâmica para otimizar a ocupação e maximização de receita.
 
 ## Objetivo
 
